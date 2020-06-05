@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atlantis</string>
+    <string name="shop_fragment">ShopFragment</string>
+    <string name="favourites">Favourites</string>
+    <string name="shop">Shop</string>
+    <string name="cart">Cart</string>
+    <string name="hello_shop_fragment">Hello, shop fragment</string>
+    <string name="hello_favourites_fragment">hello, favourites fragment</string>
+    <string name="hello_cart_fragment">hello, cart fragment</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+</resources>

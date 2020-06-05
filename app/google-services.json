@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334656642117",
+    "firebase_url": "https://atlantis-177fe.firebaseio.com",
+    "project_id": "atlantis-177fe",
+    "storage_bucket": "atlantis-177fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334656642117:android:ac3a3ec0258f519650572c",
+        "android_client_info": {
+          "package_name": "com.example.atlantis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334656642117-vccj2uf198088ogaldebjlvcq922bb6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atlantis",
+            "certificate_hash": "ece3910541cb4eff775a6e3e65f446dcce5ebb19"
+          }
+        },
+        {
+          "client_id": "334656642117-aijikvvrd78m0ckqv1an3tsubk3e335v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCoFFrvRlqPWeMtf0CF4ybHAXEoudKzHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334656642117-aijikvvrd78m0ckqv1an3tsubk3e335v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
